@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshb05" alt="hrshb05" /></a> </p>
 
-- 🔭 I’m currently working on [Vehemence Music](https://github.com/hrshb05/Vehemence-Music)
+- 🔭 I’m currently working as a Frontend UI Developer
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **Front-end Web development, UI/UX design**
 
